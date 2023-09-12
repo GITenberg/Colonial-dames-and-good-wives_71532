@@ -1,0 +1,30 @@
+_repo: Colonial-dames-and-good-wives_71532
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Earle, Alice Morse
+    alias: Earle, Mary Alice Morse
+    birthdate: 1851
+    deathdate: 1911
+    gutenberg_agent_id: '2836'
+    url: http://www.gutenberg.org/2009/agents/2836
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Morse_Earle
+description: ''
+gutenberg_issued: '2023-08-31'
+identifiers:
+  gutenberg: '71532'
+language: en
+pgterms:marc904: https://archive.org/details/colonialdamesgoo00earliala/page/n5/mode/2up
+pgterms:marc905: 20220703181108earle
+pgterms:marc906: '1895'
+pgterms:marc907: us
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston & New York :$bHoughton, Mifflin & Company, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Colonial dames and good wives
+url: http://www.gutenberg.org/ebooks/71532
